@@ -1,0 +1,16 @@
+body {
+  background-color: azure;
+}
+a:hover {
+    color: green;
+}
+p {
+    font-family: Georgia, "Times New Roman", Serif;
+}
+p {
+  text-align: center
+}
+
+table, th, td {
+   border: 1px pink;
+}
